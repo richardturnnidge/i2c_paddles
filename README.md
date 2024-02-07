@@ -3,4 +3,4 @@ Agon light Atari paddle controller input via i2c on a raspberry Pi Pico.
 The Python files go onto a Pico, which must have microPython installed.
 
 More details to come...
-<a href="pico_i2c_pinouts.png">
+<img href="pico_i2c_pinouts.png">
